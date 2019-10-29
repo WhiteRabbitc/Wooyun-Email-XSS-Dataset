@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: sometest
+To: victim@sina.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<h1 a="♥ ">♥ onmouseover=alert('hehe');asd<a href=123>asd

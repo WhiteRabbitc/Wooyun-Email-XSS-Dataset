@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: test
+To: victim@comingchina.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<img src=a onerror=alert(1)>

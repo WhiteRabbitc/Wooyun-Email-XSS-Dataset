@@ -1,0 +1,10 @@
+From: <attacker@attacker.com>
+Subject: hello
+To: victim@gmail.com
+MIME-Version: 1.0
+Content-type: text/html
+
+We're sorry ... but your computer or network may be sending automated queries.
+<img src="https://attackershost.com/1x1.gif">  
+<a href="https://attackershost.com/gmailxss">Click here to have fun</a>  
+<script>alert(/xss/)</script>

@@ -1,0 +1,26 @@
+From: <attacker@attacker.com>
+Subject: swapswapswap
+To: victim@21cn.com
+MIME-Version: 1.0
+Content-type: multipart/mixed;
+	boundary="----=_Part_192061_1556421578.1563869810627"
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_192063_26965953.1563869810627"
+
+------=_Part_192063_26965953.1563869810627
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: 7bit
+
+test
+
+------=_Part_192063_26965953.1563869810627--
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: text/html; name="1.html"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="1.html"
+
+Jmx0O2RpdiBzdHlsZT0iYTpleHByZXNzaW9uKGFsZXJ0KDEpKSImZ3Q7
+------=_Part_192061_1556421578.1563869810627--

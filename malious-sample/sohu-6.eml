@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: trytoreply
+To: victim@sohu.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<img src="foo" alt="``onerror=alert(30)">

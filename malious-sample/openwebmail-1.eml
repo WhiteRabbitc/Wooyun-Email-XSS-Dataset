@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: test one
+To: victim@openwebmail.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<marquee onstart=alert(/xss/)></marquee>

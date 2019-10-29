@@ -1,0 +1,26 @@
+From: <attacker@attacker.com>
+Subject: Forever80S
+To: victim@sohu.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+
+    <HEAD>
+        <META content="text/html; charset=unicode" http-equiv=Content-Type>
+        <META name=GENERATOR content="MSHTML 9.00.8112.16540">
+    </HEAD>
+
+    <BODY>
+        test
+    </BODY>
+</HTML>
+<div style="display:none">
+
+</div>
+<div style="display:none">
+    <:>
+        <img style="display:none" src=x onerror="alert(1)"
+        />
+</div>

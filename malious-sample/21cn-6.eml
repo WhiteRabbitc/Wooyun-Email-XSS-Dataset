@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: test
+To: victim@21cn.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<STYLE>@import'http://www.example.com/js.css';</STYLE>xxxxxxxxxxxxxxx

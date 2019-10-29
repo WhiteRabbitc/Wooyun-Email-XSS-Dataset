@@ -1,0 +1,26 @@
+From: <attacker@attacker.com>
+Subject: huhu
+To: victim@yahoo.com
+MIME-Version: 1.0
+Content-type: multipart/mixed;
+	boundary="----=_Part_192061_1556421578.1563869810627"
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_192063_26965953.1563869810627"
+
+------=_Part_192063_26965953.1563869810627
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: 7bit
+
+huhu
+
+------=_Part_192063_26965953.1563869810627--
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: text/html; name="789456123.txt<iframe src=http://qq.com>"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="789456123.txt<iframe src=http://qq.com>"
+
+JUU0JUI5JTgwICZsdDtpbWcgc3JjPSJodHRwOi8vZG0zL2luL3Rlc3QucG5nIiB4PSLkuYAiJmd0OyBvbmVycm9yPWFsZXJ0KGRvY3VtZW50LmRvbWFpbikgJmx0O2JyJmd0Ow==
+------=_Part_192061_1556421578.1563869810627--

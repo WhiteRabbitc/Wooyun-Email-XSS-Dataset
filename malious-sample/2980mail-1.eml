@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: XSS test
+To: victim@2980.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<iframe/src="javascript:alert(top.document.cookie)">

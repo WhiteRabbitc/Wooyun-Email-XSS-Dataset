@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: demo
+To: victim@magicmail.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<embed src="data&colon;text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">

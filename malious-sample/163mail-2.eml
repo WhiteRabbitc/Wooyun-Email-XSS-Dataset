@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: Fwlattest
+To: victim@163.com
+MIME-Version: 1.0
+Content-type: text/html
+
+test<img src="foo" alt="``onerror=alert(30)">

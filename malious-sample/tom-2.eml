@@ -1,0 +1,26 @@
+From: <attacker@attacker.com>
+Subject: fdsfsdfsdfdsdsfzz
+To: victim@tom.com
+MIME-Version: 1.0
+Content-type: multipart/mixed;
+	boundary="----=_Part_192061_1556421578.1563869810627"
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_192063_26965953.1563869810627"
+
+------=_Part_192063_26965953.1563869810627
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: 7bit
+
+fdsfdsfsdfsdfsdfsdfdsfds
+
+------=_Part_192063_26965953.1563869810627--
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: text/html; name="new.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="new.txt"
+
+Jmx0O3NjcmlwdCZndDthbGVydCgxKSZsdDsvc2NyaXB0Jmd0Ow==
+------=_Part_192061_1556421578.1563869810627--

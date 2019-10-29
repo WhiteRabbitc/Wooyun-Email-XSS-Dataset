@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: "><script>alert("hello Tom")</script>;
+To: victim@tom.com
+MIME-Version: 1.0
+Content-type: text/html
+
+The Baidu Story

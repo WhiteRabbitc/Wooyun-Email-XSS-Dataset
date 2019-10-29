@@ -1,0 +1,7 @@
+From: <"</script><script>alert()</script>@attacker.com">
+Subject: notitle
+To: victim@tom.com
+MIME-Version: 1.0
+Content-type: text/html
+
+nocontent

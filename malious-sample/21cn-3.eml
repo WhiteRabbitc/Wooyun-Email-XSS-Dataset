@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: 22
+To: victim@21cn.com
+MIME-Version: 1.0
+Content-type: text/html
+
+2<svg><animateTransform attributeName=transform onbegin=alert(1)>o(∩_∩)o<marquee  onstart=alert(2)></marquee>

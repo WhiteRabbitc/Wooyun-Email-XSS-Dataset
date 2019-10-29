@@ -1,0 +1,8 @@
+From: <attacker@attacker.com>
+Subject: qqmailtest
+To: victim@qq.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<embed src="mail.qq.com/filename=qqmailtest.swf" type="application/x-shockwave-flash"></embed>
+<img src="mail.qq.com/filename=qqmailtest.swf"></img>

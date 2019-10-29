@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: good night
+To: victim@263.com
+MIME-Version: 1.0
+Content-type: text/html
+
+hi<IFRAME SRC="javascript:alert(2);"></IFRAME>

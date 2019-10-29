@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: mXSS test2
+To: victim@sina.com
+MIME-Version: 1.0
+Content-type: text/html
+
+good<img src="foo" alt="``onerror=alert(30)">

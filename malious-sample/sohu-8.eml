@@ -1,0 +1,26 @@
+From: <attacker@attacker.com>
+Subject: xss test from qq
+To: victim@sohu.com
+MIME-Version: 1.0
+Content-type: multipart/mixed;
+	boundary="----=_Part_192061_1556421578.1563869810627"
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_192063_26965953.1563869810627"
+
+------=_Part_192063_26965953.1563869810627
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: 7bit
+
+no
+
+------=_Part_192063_26965953.1563869810627--
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: text/html; name="" onmousemove="alert(2)">.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="" onmousemove="alert(2)">.txt"
+
+bm90aGluZw==
+------=_Part_192061_1556421578.1563869810627--

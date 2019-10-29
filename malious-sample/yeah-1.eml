@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: <img src=a onerror=alert(123)>
+To: victim@yeah.com
+MIME-Version: 1.0
+Content-type: text/html
+
+xx

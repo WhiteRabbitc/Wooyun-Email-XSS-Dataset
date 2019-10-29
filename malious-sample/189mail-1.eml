@@ -1,0 +1,10 @@
+From: <attacker@attacker.com>
+Subject: I love you javascript!!!
+To: victim@189.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<details ontoggle="confirm(document.cookie)">
+   xss
+   <summary>click me</summary>xssxssxss
+  </details>

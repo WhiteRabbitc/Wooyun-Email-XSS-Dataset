@@ -1,0 +1,8 @@
+From: <attacker@attacker.com>
+Subject: xss test
+To: victim@qq.com
+MIME-Version: 1.0
+Content-type: text/html
+
+test
+<video poster=javascript:alert(1)//

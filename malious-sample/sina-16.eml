@@ -1,0 +1,26 @@
+From: <attacker@attacker.com>
+Subject: m0
+To: victim@sina.com
+MIME-Version: 1.0
+Content-type: multipart/mixed;
+	boundary="----=_Part_192061_1556421578.1563869810627"
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_192063_26965953.1563869810627"
+
+------=_Part_192063_26965953.1563869810627
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: 7bit
+
+nonono
+
+------=_Part_192063_26965953.1563869810627--
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: image/png; name="snow.jpg<script>alert(/xss/)</script>"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="snow.jpg<script>alert(/xss/)</script>"
+
+SGVyZSBpcyBubyBpbWc=
+------=_Part_192061_1556421578.1563869810627--

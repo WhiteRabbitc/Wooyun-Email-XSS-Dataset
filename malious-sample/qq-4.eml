@@ -1,0 +1,27 @@
+From: <attacker@attacker.com>
+Subject: test
+To: victim@qq.com
+MIME-Version: 1.0
+Content-type: multipart/mixed;
+	boundary="----=_Part_192061_1556421578.1563869810627"
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_192063_26965953.1563869810627"
+
+------=_Part_192063_26965953.1563869810627
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: 7bit
+
+sad
+
+------=_Part_192063_26965953.1563869810627--
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: text/html; name="test.htm"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="test.htm"
+
+ofA8aW1nIHNyYz14IG9uZXJyb3I9InByb21wdCgvcHduZWQvKSI+
+------=_Part_192061_1556421578.1563869810627--
+

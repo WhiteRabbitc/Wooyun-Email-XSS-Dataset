@@ -1,4 +1,4 @@
-"# Wooyun-Email-XSS-Dataset" 
+# Wooyun-Email-XSS-Dataset
 
 If this dataset is helpful for your research, please cite it in your paper:
 
